@@ -36,13 +36,13 @@ Visualization: Designed interactive charts for monthly course trends, age group 
 
 ## Insights
 
-Peak Enrollment: July saw the highest course count (56 enrollments).
+**#** Peak Enrollment: July saw the highest course count (56 enrollments).
 
-Age Dominance: Majority of students are aged 20–29, indicating a young learner base.
+**#** Age Dominance: Majority of students are aged 20–29, indicating a young learner base.
 
-Revenue Drivers: Davinci Resolve and Adobe After Effects are the top-performing courses in terms of fees.
+**#** Revenue Drivers: Davinci Resolve and Adobe After Effects are the top-performing courses in terms of fees.
 
-Certification Rate: Out of 214 students, 141 received certificates, showing strong completion rates.
+**#** Certification Rate: Out of 214 students, 141 received certificates, showing strong completion rates.
 
 ## Final Conclusion
 ABC School’s 2021 analysis shows strong enrollment in mid-year months and a clear preference for creative and technical courses like Davinci Resolve and Adobe After Effects. The majority of learners are young professionals, and certification rates are high, indicating effective course delivery. These insights can guide future course offerings, marketing strategies, and pricing decisions.
