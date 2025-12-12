@@ -21,15 +21,15 @@ This Power BI dashboard provides a detailed view of ABC School’s course enroll
 
 ## Workflow
 
-Data Collection: Gathered course enrollment and fee data for ABC School in 2021.
+**#** Data Collection: Gathered course enrollment and fee data for ABC School in 2021.
 
-Data Cleaning: Standardized course names, age groups, and fee structures.
+**#** Data Cleaning: Standardized course names, age groups, and fee structures.
 
-Modeling: Built relationships between courses, age groups, and monthly trends.
+**#** Modeling: Built relationships between courses, age groups, and monthly trends.
 
-DAX Measures: Calculated total students, total fees, and certificate issuance.
+**#** DAX Measures: Calculated total students, total fees, and certificate issuance.
 
-Visualization: Designed interactive charts for monthly course trends, age group distribution, and revenue by course.
+**#** Visualization: Designed interactive charts for monthly course trends, age group distribution, and revenue by course.
 
 ## Dashboard Preview
 ![ABC School 2021 Course Performance Dashboard](https://github.com/vijayalakshmiravi18/ABC-School-Course-Enrollment-Analysis/blob/main/Abc%20School.png)
